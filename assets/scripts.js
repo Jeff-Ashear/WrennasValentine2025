@@ -1,4 +1,4 @@
-let counter = 16
+let counter = 0
 
 let introPicPath = {
     stop: [`<div id="intro">
