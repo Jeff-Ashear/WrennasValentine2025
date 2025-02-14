@@ -17,8 +17,15 @@ let introPicPath = {
     </svg>
 </div>`]
 }
-let poemArray1 = ["A Bean and her Dad", "We rescue koalas", "We kiss all the owwies", "We snuggle great snuggles", "We make up great songs", "Daddy loves you so much!", "From when you were tiny", "Daddy's love will be with you", "Through good times and bad", "Daddy's love will be with you", "Both when we're together", "I love you dear Wrenna"]
-let poemArray2 = ["Make such a great team.", "We run round and scream", "And make the best hugs", "So cozy with loves.", "And sing them with flair.", "He will ALWAYS be there.", "Until you grow old", "Through warm and through cold.", "Whether far or quite near,", "Year after year.", "And when we're apart,", "With all of my heart."]
+let poemArray1 = ["My dear Bean it's a day all about valentines", "Wanting to make it so crystally clear", "Your dad's just bursting with a most thankful pride", "She's so big and so smart and so strong and so kind", "His love is right with you even when he's away", "On the far side of planet the fusion continues", "So smart and so sweet dad can hardly believe it", "You can know this for sure and I'll tell you why", "I love no matter the things that you do,", "You don't need to be fast or limber or strong", "You needn't be clever or wealthy or wise", "You don't have to sing songs in Carnage Hall", "You don't have to be pretty or make famous art"
+
+
+]
+
+
+let poemArray2 = ["When daddys are just about losing their minds!", "All the love in their hearts for their daughters so dear.", "To know that his Wrenna is making such strides.", "But that's all a bonus, as dad's love is blind.", "Just like the sun burns when its not quite yet day.", "Just like dad's love for his fantabulous kid who's.", "He loves you so much it's hard to conceive it.", "Because for you to have it, you never need try.", "The things that you say or the gunk on your shoe.", "I love you already, I think I'll go on…", "I love already, even more than french fries.", "I love you right now, imperfections and all.", "I love you just as you are with all of my heart."
+
+]
 
 let picPath = ['./assets/images/one.jpg', './assets/images/pic2.jpg', './assets/images/three.jpeg', './assets/images/pic4.jpg', './assets/images/pic5.jpg', './assets/images/pic6.jpg', './assets/images/pic7.jpg', './assets/images/pic8.jpg', './assets/images/pic9.jpeg', './assets/images/pic10.jpg', './assets/images/pic11.jpg', './assets/images/cloudheart.jpg',]
 
